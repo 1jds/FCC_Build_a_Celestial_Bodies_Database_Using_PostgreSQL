@@ -1,1 +1,1 @@
-# FCC_Build_a_Celestial_Bodies_Database_Using_PostgreSQL
+# FCC - Celestial Bodies Database Using PostgreSQL
